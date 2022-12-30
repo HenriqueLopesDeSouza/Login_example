@@ -32,6 +32,7 @@ namespace Application.Api.Controllers
         {
             try
             {
+               
                 User? user = new User();
                 Result result = _userService.Login(out user, username, password);
 
@@ -162,6 +163,19 @@ namespace Application.Api.Controllers
             {
                 return BadRequest(ex.Message);
             }
+        }
+
+
+        [HttpGet]
+        [Route("api/auth/test")]
+        [Authorize]
+        public ActionResult TestAuthorize()
+        {
+            return Ok(new
+            {
+                success = true,
+                message = "you are Authorized"
+            });
         }
     }
 }

@@ -1,0 +1,13 @@
+﻿C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Configuration\AutomapperConfig.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Configuration\DependencyInjectionConfig.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Controllers\HomeController.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Controllers\LoginController.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Program.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\ViewModels\PersonViewModel.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\obj\Debug\net6.0\Application.Api.GlobalUsings.g.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\obj\Debug\net6.0\Application.Api.AssemblyInfo.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\obj\Debug\net6.0\Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\appsettings.Development.json
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\appsettings.json
+C:\Users\henrique lopes\Desktop\project\Project\Application.Api\Properties\launchSettings.json

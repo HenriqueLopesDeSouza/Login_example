@@ -21,6 +21,8 @@ builder.Services.ResolveDependencies();
 
 var key = Encoding.ASCII.GetBytes(Settings.Secret);
 
+
+
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
